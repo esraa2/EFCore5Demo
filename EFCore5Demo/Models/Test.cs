@@ -7,5 +7,6 @@ namespace EFCore5Demo.Models
 	public class Test
 	{
 		public int ID { get; set; }
+
 	}
 }
